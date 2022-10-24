@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 # Seweryn
 Data Analysis is the direction I want to advance professionally and in upcoming years became a junior specialist in this area.
 
-• 💼 All about me is at [My Portfolio](https://rageanalyst.github.io/Portfolio/) <br />
+• 👨‍💼 All about me is at [My Portfolio](https://rageanalyst.github.io/Portfolio/) <br />
 • 📨 Connect with me [LinkedIn](https://www.linkedin.com/in/seweryn-ptasinski/) <br />
 • ⚙️ My Road Map To Junior Data Analyst and things I'm currently working on
 
