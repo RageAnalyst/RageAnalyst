@@ -16,5 +16,5 @@ Data Analysis is the direction I want to advance professionally and in upcoming 
 
 • 👨‍💼 All about me is at [My Portfolio](https://rageanalyst.github.io/Portfolio/) <br />
 • 📨 Connect with me on [LinkedIn](https://www.linkedin.com/in/seweryn-ptasinski/) <br />
-• ⚙️ My Road Map To Junior Data Analyst and things I'm currently working on
+• ⚙️ My Road Map To Junior Data Analyst and things I'm currently working on: [check](https://github.com/RageAnalyst/Data_Analyst_Roadmap/blob/main/README.md)
 
